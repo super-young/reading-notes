@@ -13,3 +13,10 @@
 + Proposition 3.17 The ideentity element of group G is unique.
 + Proposition 3.18 If g is any element in a group G, then the inverse element of g, denoted by g<sup>-1</sup> is unique.
 + Propostion 3.19 Let G be  a group, if a,b $\in$ G then (ab)<sup>-1</sup> = b<sup>-1</sup>a<sup>-1</sup>
++ Proposition 3.20 Let G be a group, if g $\in$ G ,then (a<sup>-1</sup>)<sup>-1</sup> = a.
++ Proposition 3.21 Let G be a group and a, b be any two elements in G, then equations ax=b and xa=b have unique solutions in G.
++ Proposition 3.22 If G is a group and a,b,c $\in$ G,then ba =ca implies b=c and ab=ac impilies b=c.(left and right cancellation laws)
++ Theroem 3.23 In a group the usual laws of exponents holds, that is for all g, h $\in$ G, 
+  - g<sup>m</sup> $\cdot$ g<sup>n</sup> = g<sup>m+n</sup>, for m,n $\in$ Z
+  - (g<sup>m</sup>)<sup>n</sup> = g<sup>mn</sup>, for m,n $\in$ Z
+  - (g $\cdot$ h)<sup>n</sup> = (h<sup>-1</sup>g<sup>-1</sup>)<sup>-n</sup>, for all n $\in$ Z, 
