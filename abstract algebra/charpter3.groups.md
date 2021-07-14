@@ -19,4 +19,8 @@
 + Theroem 3.23 In a group the usual laws of exponents holds, that is for all g, h $\in$ G, 
   - g<sup>m</sup> $\cdot$ g<sup>n</sup> = g<sup>m+n</sup>, for m,n $\in$ Z
   - (g<sup>m</sup>)<sup>n</sup> = g<sup>mn</sup>, for m,n $\in$ Z
-  - (g $\cdot$ h)<sup>n</sup> = (h<sup>-1</sup>g<sup>-1</sup>)<sup>-n</sup>, for all n $\in$ Z, 
+  - (g $\cdot$ h)<sup>n</sup> = (h<sup>-1</sup>g<sup>-1</sup>)<sup>-n</sup>, for all n $\in$ Z. Furthermore, if G is abelian , then (gh)<sup>n</sup> = g<sup>n</sup>h<sup>n</sup>
+  
+## 3.3 Subgroups
++ Definition: We define a subgroup H of a group G to be a subset of group G such that when the group operation is restricted to H, H is a group in its own right.
++ Theroems: A subset H of G  is a subset of G is and 
