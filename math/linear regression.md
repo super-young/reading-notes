@@ -1,3 +1,5 @@
+##Reading notes of linear regression
++ link http://fin.bus.ku.ac.th/135512%20Economic%20Environment%20for%20Finance/Lecture%20Slides/Linear%20Regression.pdf
 ### Least Squares Regression Properties
 + The sum of  residuals from the least squares regression line is 0, ($\sum$ (y - $\hat{y}$ ) =0 )
 + The sum of squares of residuals from the least squares regression line is a minimum ($\sum$ ($\hat{y}$ - y)$^2$)
